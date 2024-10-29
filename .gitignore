@@ -58,7 +58,7 @@ cover/
 # Flask stuff:
 instance/
 .webassets-cache
-
+.venv
 
 # Environments
 .env
@@ -86,3 +86,13 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
+p
+pp
+w
+l
+o
+oo
+ll
+log
+err
+*.png
