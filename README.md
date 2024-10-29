@@ -1,2 +1,3 @@
 # LigandBindingEquilibrium
-Monte Carlo simulation of protein-ligand binding demonstrates how different factors influence the equilibrium state
+Numerical solution of protein-ligand binding kinetic equation demonstrates 
+how different factors influence the equilibrium state.
